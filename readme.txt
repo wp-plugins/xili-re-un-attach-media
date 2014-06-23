@@ -20,7 +20,7 @@ Link to [Github by dev.xiligroup](https://github.com/dev-xiligroup/xili-re-un-at
 
 Link to [other plugins made by dev.xiligroup](http://wordpress.org/plugins/search.php?q=xili&sort= "Other xili-plugins").
 
-Link to  [latest infos about dev.xiligroup, multilingual child themes of bundled themes, plugins...](http://2014.extend.xiligroup.org/) - in english, french and german..
+Link to [latest infos about dev.xiligroup, multilingual child themes of bundled themes, plugins...](http://2014.extend.xiligroup.org/) - in english, french and german..
 
 German translation by YogieAnamCara of [sensorgrafie](http://www.sensorgrafie.de)
 
@@ -48,7 +48,8 @@ To recover the list, you must be in table mode (see icon on top right).
 == Screenshots ==
 1. The new actions in Media Library list in column File.
 2. The new action in Media Library list in column File with only unattached files selection.
-3. Icon list or thumbnail mode in WP 4.0-alpha
+3. Icon list or thumbnail mode in WP 4.0-alpha.
+4. The metabox with infos and actions about attached post.
 
 == Changelog ==
 = 0.9.1 (2014-06-23) =
